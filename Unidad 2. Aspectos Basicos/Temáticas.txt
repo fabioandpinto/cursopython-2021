@@ -1,0 +1,46 @@
+Generalidades de Python 
+1. Introduccion a python y hola mundo 
+2. Variables 
+3. Tipos de datos 
+	Numéricos 
+	Boleanos 
+	String 
+4. Manejo de cadenas 
+5. Entrada de datos 
+	Conversion de tipo de dato de la entrada 
+Ejercicios resueltos 
+Ejercicios por algun alumno
+
+
+----------------------------------------------------------------------
+Condicionales 
+6. If/else con elif 
+7. Modo debug (para pycharm) 
+8. Operador ternario if 
+Ejercicios resueltos 
+Ejercicios por algun alumno
+
+Ciclos con python 
+9. ciclo while 
+Ejercicios 
+10. Ciclo for 
+ejercicios 
+11. break y continue 
+Ejercicios 
+
+------------------------------------------------------------------------- 
+
+Colecciones con python 
+12. Listas con python 
+Ejercicios 
+13. Tuplas con Python 
+Ejercicios 
+14. Set con python 
+15. Diccionarios con python 
+
+Funciones con python 
+16. funciones con python 
+	Paso de argumentos 
+	Palabra return 
+	Valores por defecto en los parametros 
+	Argumentos variables 
