@@ -2,6 +2,8 @@ from pymongo import MongoClient
 
 MONGO_URI = "mongodb://localhost"
 
-def connect_mongo():
+def get_database():
+    database='pelicula'
     client = MongoClient(MONGO_URI)
-    return client
+    db = client[database]
+    return db
