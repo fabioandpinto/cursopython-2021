@@ -1,0 +1,30 @@
+{% extends 'snippets/base.html' %}
+{% block content %}
+<body>
+    <table class="table text-center">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Id Pelicula </th>
+            <th scope="col">Nombre Pelicula</th>
+            <th scope="col">Género Película</th>
+            <th scope="col"> Acciones </th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for p in pelicula %}
+        <tr>
+            <th> {{p.idPeli}}</th>
+            <td> {{p.nombre}}</td>
+            <td> {{p.genero}}</td>
+            <td> 
+                <a style="color: white;" class ="btn btn-primary" > Editar </a>
+                <a style="color: white;" class ="btn btn-danger" > Eliminar </a>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <a style="color: white; margin-left: 50px;" class ="btn btn-primary"> NUEVA PELICULA </a>
+
+</body>
+{% endblock content %}
