@@ -1,0 +1,31 @@
+<h1> LISTADO </h1>
+
+<form action="" method="get">
+    <input type="text" class="text" name="genero" placeholder="Ingresa el género">
+    <button type="submit"> Buscar</button>
+
+</form>
+<table class="table text-center">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Género</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% if peli %}
+    {% for i in peli %}
+    <tr>
+        <td> {{i.idPeli}}</td>
+        <td> {{i.nombre}}</td>
+        <td> {{i.genero}}</td>
+    </tr>
+    {% endfor %}
+    {% else %}
+    <h3> No se encontraron peliculas de este genero</h3>
+    {% endif %}
+    </tbody>
+</table>
+
+

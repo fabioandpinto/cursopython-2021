@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ELIMINAR REGISTRO</title>
+</head>
+<body>
+
+<form action="" method="post">
+    {% csrf_token %}
+    <h3> ¿Desea eliminar la pelicula {{pelicula.nombre}}? </h3>
+    <button type="submit"> CONFIRMAR </button>
+</form>
+
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{pelicula.nombre}}</title>
+</head>
+<body>
+      <h3> Actualizando la pelicula {{pelicula.nombre}}</h3>
+      <form action="" method="post">
+          {% csrf_token %}
+          {{form.as_p}}
+        <button type="submit"> ACTUALIZAR </button>
+      </form>
+</body>
+</html>

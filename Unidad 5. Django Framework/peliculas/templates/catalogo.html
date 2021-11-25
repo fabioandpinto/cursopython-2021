@@ -1,30 +1,31 @@
-{% extends 'snippets/base.html' %}
-{% block content %}
+{% include "snippets/head.html" %}
 <body>
+{% include "snippets/titulo.html" %}
+
     <table class="table text-center">
         <thead class="thead-dark">
           <tr>
-            <th scope="col">Id Pelicula </th>
+            <th scope="col"> Id Pelicula </th>
             <th scope="col">Nombre Pelicula</th>
             <th scope="col">Género Película</th>
-            <th scope="col"> Acciones </th>
+              <th> Acciones</th>
           </tr>
         </thead>
         <tbody>
         {% for p in pelicula %}
         <tr>
-            <th> {{p.idPeli}}</th>
+            <th> <a href="{% url 'detalle' p.idPeli %}"> {{p.idPeli}} </a> </th>
             <td> {{p.nombre}}</td>
             <td> {{p.genero}}</td>
-            <td> 
-                <a style="color: white;" class ="btn btn-primary" > Editar </a>
-                <a style="color: white;" class ="btn btn-danger" > Eliminar </a>
+            <td>
+                <a href="{% url 'actualizar' p.idPeli %}" class = "btn btn-success"> EDITAR </a>
+                <a href="{% url 'eliminar' p.idPeli %}" class = "btn btn-warning"> ELIMINAR </a>
             </td>
           </tr>
           {% endfor %}
         </tbody>
       </table>
-      <a style="color: white; margin-left: 50px;" class ="btn btn-primary"> NUEVA PELICULA </a>
+      <a style="color: white; margin-left: 50px;" href = "{% url 'crear' %}" class ="btn btn-primary"> NUEVA PELICULA </a>
 
 </body>
-{% endblock content %}
+

@@ -1,0 +1,11 @@
+{% include "snippets/head.html" %}
+<body>
+{% include "snippets/titulo.html" %}
+    <h1> CREAR NUEVA PELICULA </h1>
+    <form action="" method="post">
+        {% csrf_token %}
+        {{form.as_p}}
+        <button type="submit"> CREAR PELICULA </button>
+    </form>
+</body>
+</html>

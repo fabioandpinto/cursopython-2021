@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detalles para {{peli.nombre}}</title>
+</head>
+<body>
+<form action="" method="get">
+    <input type="text" class="text" name="pk" placeholder="Ingresa el nombre">
+    <button type="submit"> Buscar</button>
+</form>
+<table>
+    <thead>
+    <th> id Peli </th>
+    <th> nombre </th>
+    <th> genero </th>
+    </thead>
+
+    <tbody>
+        <td> {{peli.idPeli }}</td>
+        <td> {{peli.nombre }}</td>
+        <td> {{peli.genero }}</td>
+    </tbody>
+
+</table>
+</body>
+</html>
