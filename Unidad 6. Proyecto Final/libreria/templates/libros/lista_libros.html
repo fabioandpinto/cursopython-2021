@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LISTADO GENERAL DE LIBROS</title>
+</head>
+<body>
+
+    {% for l in libro %}
+        {{l.nombre}}     -     {{l.autor}}
+    {% endfor %}
+
+</body>
+</html>
