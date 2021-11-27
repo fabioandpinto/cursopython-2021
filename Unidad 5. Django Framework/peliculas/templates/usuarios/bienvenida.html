@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bienvenida</title>
+</head>
+<body>
+
+{% if user.is_authenticated %}
+    <h1> hola {{ user.username }}, bienvenido a agrosavia </h1>
+    <a href=" {% url 'salir' %}"> CERRAR SESION </a>
+    {% else %}
+    <h1> no te reconocemos, ¿quieres registrarte o iniciar sesion? </h1>
+    <a href=" {% url 'registro' %}"> REGISTRAME </a>
+    <a href=" {% url 'entrar' %}"> INICIAR SESION </a>
+{% endif %}
+
+</body>
+</html>
