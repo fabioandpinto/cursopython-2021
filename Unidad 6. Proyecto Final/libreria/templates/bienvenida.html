@@ -7,10 +7,19 @@
 <body>
 
     <ul>
-        <li><a href=""> Iniciar sesión </a> </li>
-        <li><a href=""> Registrate </a>     </li>
-        <li><a href="{% url 'libros/' %} "> Lista de libros disponibles </a></li>
+        {% if user.is_authenticated %}
+         <h1> hola {{ user.username }}, bienvenido al catalogo </h1>
+        <li><a href="{% url 'libros' %} "> Lista de libros disponibles </a></li>
+        <li><a href="{% url 'mislibros'%}/username={{user.username}}"> MIS LIBROS </a></li> <!-- mislibros/username=ingfa -->
+
+        <li><a href="{% url 'salir' %} "> Cerrar Sesion </a></li>
+        {% else %}
+        <li><a href="{% url 'login' %} "> Iniciar sesión </a> </li>
+        <li><a href="{% url 'registro' %}"> Registrate </a></li>
+        {% endif %}
+
     </ul>
+
 
 </body>
 </html>

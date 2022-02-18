@@ -1,0 +1,2403 @@
+<countries>
+  <country>
+    <id>2</id>
+    <name>Aland Islands</name>
+    <iso3>ALA</iso3>
+    <iso2>AX</iso2>
+    <numeric_code>248</numeric_code>
+    <phone_code>+358-18</phone_code>
+    <capital>Mariehamn</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.ax</tld>
+    <native>&#197;land</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Mariehamn</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50732;&#46976;&#46300; &#51228;&#46020;</kr>
+      <br>Ilhas de Aland</br>
+      <pt>Ilhas de Aland</pt>
+      <nl>&#197;landeilanden</nl>
+      <hr>&#197;landski otoci</hr>
+      <fa>&#1580;&#1586;&#1575;&#1740;&#1585; &#1575;&#1604;&#1606;&#1583;</fa>
+      <de>&#197;land</de>
+      <es>Alandia</es>
+      <fr>&#197;land</fr>
+      <ja>&#12458;&#12540;&#12521;&#12531;&#12489;&#35576;&#23798;</ja>
+      <it>Isole Aland</it>
+      <cn>&#22885;&#20848;&#32676;&#23707;</cn>
+    </translations>
+    <latitude>60.11666700</latitude>
+    <longitude>19.90000000</longitude>
+    <emoji>&#127462;&#127485;</emoji>
+    <emojiU>U+1F1E6 U+1F1FD</emojiU>
+  </country>
+  <country>
+    <id>3</id>
+    <name>Albania</name>
+    <iso3>ALB</iso3>
+    <iso2>AL</iso2>
+    <numeric_code>008</numeric_code>
+    <phone_code>355</phone_code>
+    <capital>Tirana</capital>
+    <currency>ALL</currency>
+    <currency_name>Albanian lek</currency_name>
+    <currency_symbol>Lek</currency_symbol>
+    <tld>.al</tld>
+    <native>Shqip&#235;ria</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Tirane</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50508;&#48148;&#45768;&#50500;</kr>
+      <br>Alb&#226;nia</br>
+      <pt>Alb&#226;nia</pt>
+      <nl>Albani&#235;</nl>
+      <hr>Albanija</hr>
+      <fa>&#1570;&#1604;&#1576;&#1575;&#1606;&#1740;</fa>
+      <de>Albanien</de>
+      <es>Albania</es>
+      <fr>Albanie</fr>
+      <ja>&#12450;&#12523;&#12496;&#12491;&#12450;</ja>
+      <it>Albania</it>
+      <cn>&#38463;&#23572;&#24052;&#23612;&#20122;</cn>
+    </translations>
+    <latitude>41.00000000</latitude>
+    <longitude>20.00000000</longitude>
+    <emoji>&#127462;&#127473;</emoji>
+    <emojiU>U+1F1E6 U+1F1F1</emojiU>
+  </country>
+  <country>
+    <id>6</id>
+    <name>Andorra</name>
+    <iso3>AND</iso3>
+    <iso2>AD</iso2>
+    <numeric_code>020</numeric_code>
+    <phone_code>376</phone_code>
+    <capital>Andorra la Vella</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.ad</tld>
+    <native>Andorra</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Andorra</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50504;&#46020;&#46972;</kr>
+      <br>Andorra</br>
+      <pt>Andorra</pt>
+      <nl>Andorra</nl>
+      <hr>Andora</hr>
+      <fa>&#1570;&#1606;&#1583;&#1608;&#1585;&#1575;</fa>
+      <de>Andorra</de>
+      <es>Andorra</es>
+      <fr>Andorre</fr>
+      <ja>&#12450;&#12531;&#12489;&#12521;</ja>
+      <it>Andorra</it>
+      <cn>&#23433;&#36947;&#23572;</cn>
+    </translations>
+    <latitude>42.50000000</latitude>
+    <longitude>1.50000000</longitude>
+    <emoji>&#127462;&#127465;</emoji>
+    <emojiU>U+1F1E6 U+1F1E9</emojiU>
+  </country>
+  <country>
+    <id>15</id>
+    <name>Austria</name>
+    <iso3>AUT</iso3>
+    <iso2>AT</iso2>
+    <numeric_code>040</numeric_code>
+    <phone_code>43</phone_code>
+    <capital>Vienna</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.at</tld>
+    <native>&#214;sterreich</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vienna</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50724;&#49828;&#53944;&#47532;&#50500;</kr>
+      <br>&#225;ustria</br>
+      <pt>&#225;ustria</pt>
+      <nl>Oostenrijk</nl>
+      <hr>Austrija</hr>
+      <fa>&#1575;&#1578;&#1585;&#1740;&#1588;</fa>
+      <de>&#214;sterreich</de>
+      <es>Austria</es>
+      <fr>Autriche</fr>
+      <ja>&#12458;&#12540;&#12473;&#12488;&#12522;&#12450;</ja>
+      <it>Austria</it>
+      <cn>&#22885;&#22320;&#21033;</cn>
+    </translations>
+    <latitude>47.33333333</latitude>
+    <longitude>13.33333333</longitude>
+    <emoji>&#127462;&#127481;</emoji>
+    <emojiU>U+1F1E6 U+1F1F9</emojiU>
+  </country>
+  <country>
+    <id>21</id>
+    <name>Belarus</name>
+    <iso3>BLR</iso3>
+    <iso2>BY</iso2>
+    <numeric_code>112</numeric_code>
+    <phone_code>375</phone_code>
+    <capital>Minsk</capital>
+    <currency>BYN</currency>
+    <currency_name>Belarusian ruble</currency_name>
+    <currency_symbol>Br</currency_symbol>
+    <tld>.by</tld>
+    <native>&#1041;&#1077;&#1083;&#1072;&#1088;&#1091;&#769;&#1089;&#1100;</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Minsk</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#48296;&#46972;&#47336;&#49828;</kr>
+      <br>Bielorr&#250;ssia</br>
+      <pt>Bielorr&#250;ssia</pt>
+      <nl>Wit-Rusland</nl>
+      <hr>Bjelorusija</hr>
+      <fa>&#1576;&#1604;&#1575;&#1585;&#1608;&#1587;</fa>
+      <de>Wei&#223;russland</de>
+      <es>Bielorrusia</es>
+      <fr>Bi&#233;lorussie</fr>
+      <ja>&#12505;&#12521;&#12523;&#12540;&#12471;</ja>
+      <it>Bielorussia</it>
+      <cn>&#30333;&#20420;&#32599;&#26031;</cn>
+    </translations>
+    <latitude>53.00000000</latitude>
+    <longitude>28.00000000</longitude>
+    <emoji>&#127463;&#127486;</emoji>
+    <emojiU>U+1F1E7 U+1F1FE</emojiU>
+  </country>
+  <country>
+    <id>22</id>
+    <name>Belgium</name>
+    <iso3>BEL</iso3>
+    <iso2>BE</iso2>
+    <numeric_code>056</numeric_code>
+    <phone_code>32</phone_code>
+    <capital>Brussels</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.be</tld>
+    <native>Belgi&#235;</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Brussels</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#48296;&#44592;&#50640;</kr>
+      <br>B&#233;lgica</br>
+      <pt>B&#233;lgica</pt>
+      <nl>Belgi&#235;</nl>
+      <hr>Belgija</hr>
+      <fa>&#1576;&#1604;&#1688;&#1740;&#1705;</fa>
+      <de>Belgien</de>
+      <es>B&#233;lgica</es>
+      <fr>Belgique</fr>
+      <ja>&#12505;&#12523;&#12462;&#12540;</ja>
+      <it>Belgio</it>
+      <cn>&#27604;&#21033;&#26102;</cn>
+    </translations>
+    <latitude>50.83333333</latitude>
+    <longitude>4.00000000</longitude>
+    <emoji>&#127463;&#127466;</emoji>
+    <emojiU>U+1F1E7 U+1F1EA</emojiU>
+  </country>
+  <country>
+    <id>28</id>
+    <name>Bosnia and Herzegovina</name>
+    <iso3>BIH</iso3>
+    <iso2>BA</iso2>
+    <numeric_code>070</numeric_code>
+    <phone_code>387</phone_code>
+    <capital>Sarajevo</capital>
+    <currency>BAM</currency>
+    <currency_name>Bosnia and Herzegovina convertible mark</currency_name>
+    <currency_symbol>KM</currency_symbol>
+    <tld>.ba</tld>
+    <native>Bosna i Hercegovina</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Sarajevo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#48372;&#49828;&#45768;&#50500; &#54756;&#47476;&#52404;&#44256;&#48708;&#45208;</kr>
+      <br>B&#243;snia e Herzegovina</br>
+      <pt>B&#243;snia e Herzegovina</pt>
+      <nl>Bosni&#235; en Herzegovina</nl>
+      <hr>Bosna i Hercegovina</hr>
+      <fa>&#1576;&#1608;&#1587;&#1606;&#1740; &#1608; &#1607;&#1585;&#1586;&#1711;&#1608;&#1740;&#1606;</fa>
+      <de>Bosnien und Herzegowina</de>
+      <es>Bosnia y Herzegovina</es>
+      <fr>Bosnie-Herz&#233;govine</fr>
+      <ja>&#12508;&#12473;&#12491;&#12450;&#12539;&#12504;&#12523;&#12484;&#12455;&#12468;&#12499;&#12490;</ja>
+      <it>Bosnia ed Erzegovina</it>
+      <cn>&#27874;&#26031;&#23612;&#20122;&#21644;&#40657;&#22622;&#21733;&#32500;&#37027;</cn>
+    </translations>
+    <latitude>44.00000000</latitude>
+    <longitude>18.00000000</longitude>
+    <emoji>&#127463;&#127462;</emoji>
+    <emojiU>U+1F1E7 U+1F1E6</emojiU>
+  </country>
+  <country>
+    <id>34</id>
+    <name>Bulgaria</name>
+    <iso3>BGR</iso3>
+    <iso2>BG</iso2>
+    <numeric_code>100</numeric_code>
+    <phone_code>359</phone_code>
+    <capital>Sofia</capital>
+    <currency>BGN</currency>
+    <currency_name>Bulgarian lev</currency_name>
+    <currency_symbol>&#1051;&#1074;.</currency_symbol>
+    <tld>.bg</tld>
+    <native>&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1080;&#1103;</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Sofia</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#48520;&#44032;&#47532;&#50500;</kr>
+      <br>Bulg&#225;ria</br>
+      <pt>Bulg&#225;ria</pt>
+      <nl>Bulgarije</nl>
+      <hr>Bugarska</hr>
+      <fa>&#1576;&#1604;&#1594;&#1575;&#1585;&#1587;&#1578;&#1575;&#1606;</fa>
+      <de>Bulgarien</de>
+      <es>Bulgaria</es>
+      <fr>Bulgarie</fr>
+      <ja>&#12502;&#12523;&#12460;&#12522;&#12450;</ja>
+      <it>Bulgaria</it>
+      <cn>&#20445;&#21152;&#21033;&#20122;</cn>
+    </translations>
+    <latitude>43.00000000</latitude>
+    <longitude>25.00000000</longitude>
+    <emoji>&#127463;&#127468;</emoji>
+    <emojiU>U+1F1E7 U+1F1EC</emojiU>
+  </country>
+  <country>
+    <id>55</id>
+    <name>Croatia</name>
+    <iso3>HRV</iso3>
+    <iso2>HR</iso2>
+    <numeric_code>191</numeric_code>
+    <phone_code>385</phone_code>
+    <capital>Zagreb</capital>
+    <currency>HRK</currency>
+    <currency_name>Croatian kuna</currency_name>
+    <currency_symbol>kn</currency_symbol>
+    <tld>.hr</tld>
+    <native>Hrvatska</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Zagreb</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#53356;&#47196;&#50500;&#54000;&#50500;</kr>
+      <br>Cro&#225;cia</br>
+      <pt>Cro&#225;cia</pt>
+      <nl>Kroati&#235;</nl>
+      <hr>Hrvatska</hr>
+      <fa>&#1705;&#1585;&#1608;&#1575;&#1587;&#1740;</fa>
+      <de>Kroatien</de>
+      <es>Croacia</es>
+      <fr>Croatie</fr>
+      <ja>&#12463;&#12525;&#12450;&#12481;&#12450;</ja>
+      <it>Croazia</it>
+      <cn>&#20811;&#32599;&#22320;&#20122;</cn>
+    </translations>
+    <latitude>45.16666666</latitude>
+    <longitude>15.50000000</longitude>
+    <emoji>&#127469;&#127479;</emoji>
+    <emojiU>U+1F1ED U+1F1F7</emojiU>
+  </country>
+  <country>
+    <id>57</id>
+    <name>Cyprus</name>
+    <iso3>CYP</iso3>
+    <iso2>CY</iso2>
+    <numeric_code>196</numeric_code>
+    <phone_code>357</phone_code>
+    <capital>Nicosia</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.cy</tld>
+    <native>&#922;&#973;&#960;&#961;&#959;&#962;</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Asia/Famagusta</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Nicosia</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#53412;&#54532;&#47196;&#49828;</kr>
+      <br>Chipre</br>
+      <pt>Chipre</pt>
+      <nl>Cyprus</nl>
+      <hr>Cipar</hr>
+      <fa>&#1602;&#1576;&#1585;&#1587;</fa>
+      <de>Zypern</de>
+      <es>Chipre</es>
+      <fr>Chypre</fr>
+      <ja>&#12461;&#12503;&#12525;&#12473;</ja>
+      <it>Cipro</it>
+      <cn>&#22622;&#28006;&#36335;&#26031;</cn>
+    </translations>
+    <latitude>35.00000000</latitude>
+    <longitude>33.00000000</longitude>
+    <emoji>&#127464;&#127486;</emoji>
+    <emojiU>U+1F1E8 U+1F1FE</emojiU>
+  </country>
+  <country>
+    <id>58</id>
+    <name>Czech Republic</name>
+    <iso3>CZE</iso3>
+    <iso2>CZ</iso2>
+    <numeric_code>203</numeric_code>
+    <phone_code>420</phone_code>
+    <capital>Prague</capital>
+    <currency>CZK</currency>
+    <currency_name>Czech koruna</currency_name>
+    <currency_symbol>K&#269;</currency_symbol>
+    <tld>.cz</tld>
+    <native>&#268;esk&#225; republika</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Prague</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#52404;&#53076;</kr>
+      <br>Rep&#250;blica Tcheca</br>
+      <pt>Rep&#250;blica Checa</pt>
+      <nl>Tsjechi&#235;</nl>
+      <hr>&#268;e&#353;ka</hr>
+      <fa>&#1580;&#1605;&#1607;&#1608;&#1585;&#1740; &#1670;&#1705;</fa>
+      <de>Tschechische Republik</de>
+      <es>Rep&#250;blica Checa</es>
+      <fr>R&#233;publique tch&#232;que</fr>
+      <ja>&#12481;&#12455;&#12467;</ja>
+      <it>Repubblica Ceca</it>
+      <cn>&#25463;&#20811;</cn>
+    </translations>
+    <latitude>49.75000000</latitude>
+    <longitude>15.50000000</longitude>
+    <emoji>&#127464;&#127487;</emoji>
+    <emojiU>U+1F1E8 U+1F1FF</emojiU>
+  </country>
+  <country>
+    <id>59</id>
+    <name>Denmark</name>
+    <iso3>DNK</iso3>
+    <iso2>DK</iso2>
+    <numeric_code>208</numeric_code>
+    <phone_code>45</phone_code>
+    <capital>Copenhagen</capital>
+    <currency>DKK</currency>
+    <currency_name>Danish krone</currency_name>
+    <currency_symbol>Kr.</currency_symbol>
+    <tld>.dk</tld>
+    <native>Danmark</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Copenhagen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#45940;&#47560;&#53356;</kr>
+      <br>Dinamarca</br>
+      <pt>Dinamarca</pt>
+      <nl>Denemarken</nl>
+      <hr>Danska</hr>
+      <fa>&#1583;&#1575;&#1606;&#1605;&#1575;&#1585;&#1705;</fa>
+      <de>D&#228;nemark</de>
+      <es>Dinamarca</es>
+      <fr>Danemark</fr>
+      <ja>&#12487;&#12531;&#12510;&#12540;&#12463;</ja>
+      <it>Danimarca</it>
+      <cn>&#20025;&#40614;</cn>
+    </translations>
+    <latitude>56.00000000</latitude>
+    <longitude>10.00000000</longitude>
+    <emoji>&#127465;&#127472;</emoji>
+    <emojiU>U+1F1E9 U+1F1F0</emojiU>
+  </country>
+  <country>
+    <id>69</id>
+    <name>Estonia</name>
+    <iso3>EST</iso3>
+    <iso2>EE</iso2>
+    <numeric_code>233</numeric_code>
+    <phone_code>372</phone_code>
+    <capital>Tallinn</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.ee</tld>
+    <native>Eesti</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Tallinn</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50640;&#49828;&#53664;&#45768;&#50500;</kr>
+      <br>Est&#244;nia</br>
+      <pt>Est&#243;nia</pt>
+      <nl>Estland</nl>
+      <hr>Estonija</hr>
+      <fa>&#1575;&#1587;&#1578;&#1608;&#1606;&#1740;</fa>
+      <de>Estland</de>
+      <es>Estonia</es>
+      <fr>Estonie</fr>
+      <ja>&#12456;&#12473;&#12488;&#12491;&#12450;</ja>
+      <it>Estonia</it>
+      <cn>&#29233;&#27801;&#23612;&#20122;</cn>
+    </translations>
+    <latitude>59.00000000</latitude>
+    <longitude>26.00000000</longitude>
+    <emoji>&#127466;&#127466;</emoji>
+    <emojiU>U+1F1EA U+1F1EA</emojiU>
+  </country>
+  <country>
+    <id>72</id>
+    <name>Faroe Islands</name>
+    <iso3>FRO</iso3>
+    <iso2>FO</iso2>
+    <numeric_code>234</numeric_code>
+    <phone_code>298</phone_code>
+    <capital>Torshavn</capital>
+    <currency>DKK</currency>
+    <currency_name>Danish krone</currency_name>
+    <currency_symbol>Kr.</currency_symbol>
+    <tld>.fo</tld>
+    <native>F&#248;royar</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Faroe</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#54168;&#47196; &#51228;&#46020;</kr>
+      <br>Ilhas Faro&#233;</br>
+      <pt>Ilhas Faro&#233;</pt>
+      <nl>Faer&#246;er</nl>
+      <hr>Farski Otoci</hr>
+      <fa>&#1580;&#1586;&#1575;&#1740;&#1585; &#1601;&#1575;&#1585;&#1608;</fa>
+      <de>F&#228;r&#246;er-Inseln</de>
+      <es>Islas Faroe</es>
+      <fr>&#206;les F&#233;ro&#233;</fr>
+      <ja>&#12501;&#12455;&#12525;&#12540;&#35576;&#23798;</ja>
+      <it>Isole Far Oer</it>
+      <cn>&#27861;&#32599;&#32676;&#23707;</cn>
+    </translations>
+    <latitude>62.00000000</latitude>
+    <longitude>-7.00000000</longitude>
+    <emoji>&#127467;&#127476;</emoji>
+    <emojiU>U+1F1EB U+1F1F4</emojiU>
+  </country>
+  <country>
+    <id>74</id>
+    <name>Finland</name>
+    <iso3>FIN</iso3>
+    <iso2>FI</iso2>
+    <numeric_code>246</numeric_code>
+    <phone_code>358</phone_code>
+    <capital>Helsinki</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.fi</tld>
+    <native>Suomi</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Helsinki</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#54592;&#46976;&#46300;</kr>
+      <br>Finl&#226;ndia</br>
+      <pt>Finl&#226;ndia</pt>
+      <nl>Finland</nl>
+      <hr>Finska</hr>
+      <fa>&#1601;&#1606;&#1604;&#1575;&#1606;&#1583;</fa>
+      <de>Finnland</de>
+      <es>Finlandia</es>
+      <fr>Finlande</fr>
+      <ja>&#12501;&#12451;&#12531;&#12521;&#12531;&#12489;</ja>
+      <it>Finlandia</it>
+      <cn>&#33452;&#20848;</cn>
+    </translations>
+    <latitude>64.00000000</latitude>
+    <longitude>26.00000000</longitude>
+    <emoji>&#127467;&#127470;</emoji>
+    <emojiU>U+1F1EB U+1F1EE</emojiU>
+  </country>
+  <country>
+    <id>75</id>
+    <name>France</name>
+    <iso3>FRA</iso3>
+    <iso2>FR</iso2>
+    <numeric_code>250</numeric_code>
+    <phone_code>33</phone_code>
+    <capital>Paris</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.fr</tld>
+    <native>France</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Paris</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#54532;&#46993;&#49828;</kr>
+      <br>Fran&#231;a</br>
+      <pt>Fran&#231;a</pt>
+      <nl>Frankrijk</nl>
+      <hr>Francuska</hr>
+      <fa>&#1601;&#1585;&#1575;&#1606;&#1587;&#1607;</fa>
+      <de>Frankreich</de>
+      <es>Francia</es>
+      <fr>France</fr>
+      <ja>&#12501;&#12521;&#12531;&#12473;</ja>
+      <it>Francia</it>
+      <cn>&#27861;&#22269;</cn>
+    </translations>
+    <latitude>46.00000000</latitude>
+    <longitude>2.00000000</longitude>
+    <emoji>&#127467;&#127479;</emoji>
+    <emojiU>U+1F1EB U+1F1F7</emojiU>
+  </country>
+  <country>
+    <id>82</id>
+    <name>Germany</name>
+    <iso3>DEU</iso3>
+    <iso2>DE</iso2>
+    <numeric_code>276</numeric_code>
+    <phone_code>49</phone_code>
+    <capital>Berlin</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.de</tld>
+    <native>Deutschland</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Berlin</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Busingen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#46021;&#51068;</kr>
+      <br>Alemanha</br>
+      <pt>Alemanha</pt>
+      <nl>Duitsland</nl>
+      <hr>Njema&#269;ka</hr>
+      <fa>&#1570;&#1604;&#1605;&#1575;&#1606;</fa>
+      <de>Deutschland</de>
+      <es>Alemania</es>
+      <fr>Allemagne</fr>
+      <ja>&#12489;&#12452;&#12484;</ja>
+      <it>Germania</it>
+      <cn>&#24503;&#22269;</cn>
+    </translations>
+    <latitude>51.00000000</latitude>
+    <longitude>9.00000000</longitude>
+    <emoji>&#127465;&#127466;</emoji>
+    <emojiU>U+1F1E9 U+1F1EA</emojiU>
+  </country>
+  <country>
+    <id>84</id>
+    <name>Gibraltar</name>
+    <iso3>GIB</iso3>
+    <iso2>GI</iso2>
+    <numeric_code>292</numeric_code>
+    <phone_code>350</phone_code>
+    <capital>Gibraltar</capital>
+    <currency>GIP</currency>
+    <currency_name>Gibraltar pound</currency_name>
+    <currency_symbol>&#163;</currency_symbol>
+    <tld>.gi</tld>
+    <native>Gibraltar</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Gibraltar</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#51648;&#48652;&#47204;&#53552;</kr>
+      <br>Gibraltar</br>
+      <pt>Gibraltar</pt>
+      <nl>Gibraltar</nl>
+      <hr>Gibraltar</hr>
+      <fa>&#1580;&#1576;&#1604;&#8204;&#1591;&#1575;&#1585;&#1602;</fa>
+      <de>Gibraltar</de>
+      <es>Gibraltar</es>
+      <fr>Gibraltar</fr>
+      <ja>&#12472;&#12502;&#12521;&#12523;&#12479;&#12523;</ja>
+      <it>Gibilterra</it>
+      <cn>&#30452;&#24067;&#32599;&#38464;</cn>
+    </translations>
+    <latitude>36.13333333</latitude>
+    <longitude>-5.35000000</longitude>
+    <emoji>&#127468;&#127470;</emoji>
+    <emojiU>U+1F1EC U+1F1EE</emojiU>
+  </country>
+  <country>
+    <id>85</id>
+    <name>Greece</name>
+    <iso3>GRC</iso3>
+    <iso2>GR</iso2>
+    <numeric_code>300</numeric_code>
+    <phone_code>30</phone_code>
+    <capital>Athens</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.gr</tld>
+    <native>&#917;&#955;&#955;&#940;&#948;&#945;</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Athens</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#44536;&#47532;&#49828;</kr>
+      <br>Gr&#233;cia</br>
+      <pt>Gr&#233;cia</pt>
+      <nl>Griekenland</nl>
+      <hr>Gr&#269;ka</hr>
+      <fa>&#1740;&#1608;&#1606;&#1575;&#1606;</fa>
+      <de>Griechenland</de>
+      <es>Grecia</es>
+      <fr>Gr&#232;ce</fr>
+      <ja>&#12462;&#12522;&#12471;&#12515;</ja>
+      <it>Grecia</it>
+      <cn>&#24076;&#33098;</cn>
+    </translations>
+    <latitude>39.00000000</latitude>
+    <longitude>22.00000000</longitude>
+    <emoji>&#127468;&#127479;</emoji>
+    <emojiU>U+1F1EC U+1F1F7</emojiU>
+  </country>
+  <country>
+    <id>91</id>
+    <name>Guernsey and Alderney</name>
+    <iso3>GGY</iso3>
+    <iso2>GG</iso2>
+    <numeric_code>831</numeric_code>
+    <phone_code>+44-1481</phone_code>
+    <capital>St Peter Port</capital>
+    <currency>GBP</currency>
+    <currency_name>British pound</currency_name>
+    <currency_symbol>&#163;</currency_symbol>
+    <tld>.gg</tld>
+    <native>Guernsey</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Guernsey</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#44148;&#51648;, &#50732;&#45908;&#45768;</kr>
+      <br>Guernsey</br>
+      <pt>Guernsey</pt>
+      <nl>Guernsey</nl>
+      <hr>Guernsey</hr>
+      <fa>&#1711;&#1585;&#1606;&#1586;&#1740;</fa>
+      <de>Guernsey</de>
+      <es>Guernsey</es>
+      <fr>Guernesey</fr>
+      <ja>&#12460;&#12540;&#12531;&#12472;&#12540;</ja>
+      <it>Guernsey</it>
+      <cn>&#26681;&#35199;&#23707;</cn>
+    </translations>
+    <latitude>49.46666666</latitude>
+    <longitude>-2.58333333</longitude>
+    <emoji>&#127468;&#127468;</emoji>
+    <emojiU>U+1F1EC U+1F1EC</emojiU>
+  </country>
+  <country>
+    <id>99</id>
+    <name>Hungary</name>
+    <iso3>HUN</iso3>
+    <iso2>HU</iso2>
+    <numeric_code>348</numeric_code>
+    <phone_code>36</phone_code>
+    <capital>Budapest</capital>
+    <currency>HUF</currency>
+    <currency_name>Hungarian forint</currency_name>
+    <currency_symbol>Ft</currency_symbol>
+    <tld>.hu</tld>
+    <native>Magyarorsz&#225;g</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Budapest</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#54749;&#44032;&#47532;</kr>
+      <br>Hungria</br>
+      <pt>Hungria</pt>
+      <nl>Hongarije</nl>
+      <hr>Ma&#273;arska</hr>
+      <fa>&#1605;&#1580;&#1575;&#1585;&#1587;&#1578;&#1575;&#1606;</fa>
+      <de>Ungarn</de>
+      <es>Hungr&#237;a</es>
+      <fr>Hongrie</fr>
+      <ja>&#12495;&#12531;&#12460;&#12522;&#12540;</ja>
+      <it>Ungheria</it>
+      <cn>&#21256;&#29273;&#21033;</cn>
+    </translations>
+    <latitude>47.00000000</latitude>
+    <longitude>20.00000000</longitude>
+    <emoji>&#127469;&#127482;</emoji>
+    <emojiU>U+1F1ED U+1F1FA</emojiU>
+  </country>
+  <country>
+    <id>100</id>
+    <name>Iceland</name>
+    <iso3>ISL</iso3>
+    <iso2>IS</iso2>
+    <numeric_code>352</numeric_code>
+    <phone_code>354</phone_code>
+    <capital>Reykjavik</capital>
+    <currency>ISK</currency>
+    <currency_name>Icelandic kr&#243;na</currency_name>
+    <currency_symbol>kr</currency_symbol>
+    <tld>.is</tld>
+    <native>&#205;sland</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Reykjavik</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50500;&#51060;&#49836;&#46976;&#46300;</kr>
+      <br>Isl&#226;ndia</br>
+      <pt>Isl&#226;ndia</pt>
+      <nl>IJsland</nl>
+      <hr>Island</hr>
+      <fa>&#1575;&#1740;&#1587;&#1604;&#1606;&#1583;</fa>
+      <de>Island</de>
+      <es>Islandia</es>
+      <fr>Islande</fr>
+      <ja>&#12450;&#12452;&#12473;&#12521;&#12531;&#12489;</ja>
+      <it>Islanda</it>
+      <cn>&#20912;&#23707;</cn>
+    </translations>
+    <latitude>65.00000000</latitude>
+    <longitude>-18.00000000</longitude>
+    <emoji>&#127470;&#127480;</emoji>
+    <emojiU>U+1F1EE U+1F1F8</emojiU>
+  </country>
+  <country>
+    <id>105</id>
+    <name>Ireland</name>
+    <iso3>IRL</iso3>
+    <iso2>IE</iso2>
+    <numeric_code>372</numeric_code>
+    <phone_code>353</phone_code>
+    <capital>Dublin</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.ie</tld>
+    <native>&#201;ire</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Dublin</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50500;&#51068;&#47004;&#46300;</kr>
+      <br>Irlanda</br>
+      <pt>Irlanda</pt>
+      <nl>Ierland</nl>
+      <hr>Irska</hr>
+      <fa>&#1575;&#1740;&#1585;&#1604;&#1606;&#1583;</fa>
+      <de>Irland</de>
+      <es>Irlanda</es>
+      <fr>Irlande</fr>
+      <ja>&#12450;&#12452;&#12523;&#12521;&#12531;&#12489;</ja>
+      <it>Irlanda</it>
+      <cn>&#29233;&#23572;&#20848;</cn>
+    </translations>
+    <latitude>53.00000000</latitude>
+    <longitude>-8.00000000</longitude>
+    <emoji>&#127470;&#127466;</emoji>
+    <emojiU>U+1F1EE U+1F1EA</emojiU>
+  </country>
+  <country>
+    <id>107</id>
+    <name>Italy</name>
+    <iso3>ITA</iso3>
+    <iso2>IT</iso2>
+    <numeric_code>380</numeric_code>
+    <phone_code>39</phone_code>
+    <capital>Rome</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.it</tld>
+    <native>Italia</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Rome</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#51060;&#53448;&#47532;&#50500;</kr>
+      <br>It&#225;lia</br>
+      <pt>It&#225;lia</pt>
+      <nl>Itali&#235;</nl>
+      <hr>Italija</hr>
+      <fa>&#1575;&#1740;&#1578;&#1575;&#1604;&#1740;&#1575;</fa>
+      <de>Italien</de>
+      <es>Italia</es>
+      <fr>Italie</fr>
+      <ja>&#12452;&#12479;&#12522;&#12450;</ja>
+      <it>Italia</it>
+      <cn>&#24847;&#22823;&#21033;</cn>
+    </translations>
+    <latitude>42.83333333</latitude>
+    <longitude>12.83333333</longitude>
+    <emoji>&#127470;&#127481;</emoji>
+    <emojiU>U+1F1EE U+1F1F9</emojiU>
+  </country>
+  <country>
+    <id>110</id>
+    <name>Jersey</name>
+    <iso3>JEY</iso3>
+    <iso2>JE</iso2>
+    <numeric_code>832</numeric_code>
+    <phone_code>+44-1534</phone_code>
+    <capital>Saint Helier</capital>
+    <currency>GBP</currency>
+    <currency_name>British pound</currency_name>
+    <currency_symbol>&#163;</currency_symbol>
+    <tld>.je</tld>
+    <native>Jersey</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Jersey</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#51200;&#51648; &#49452;</kr>
+      <br>Jersey</br>
+      <pt>Jersey</pt>
+      <nl>Jersey</nl>
+      <hr>Jersey</hr>
+      <fa>&#1580;&#1585;&#1586;&#1740;</fa>
+      <de>Jersey</de>
+      <es>Jersey</es>
+      <fr>Jersey</fr>
+      <ja>&#12472;&#12515;&#12540;&#12472;&#12540;</ja>
+      <it>Isola di Jersey</it>
+      <cn>&#27901;&#35199;&#23707;</cn>
+    </translations>
+    <latitude>49.25000000</latitude>
+    <longitude>-2.16666666</longitude>
+    <emoji>&#127471;&#127466;</emoji>
+    <emojiU>U+1F1EF U+1F1EA</emojiU>
+  </country>
+  <country>
+    <id>248</id>
+    <name>Kosovo</name>
+    <iso3>XKX</iso3>
+    <iso2>XK</iso2>
+    <numeric_code>926</numeric_code>
+    <phone_code>383</phone_code>
+    <capital>Pristina</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.xk</tld>
+    <native>Republika e Kosov&#235;s</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Belgrade</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#53076;&#49548;&#48372;</kr>
+      <cn>&#31185;&#32034;&#27779;</cn>
+    </translations>
+    <latitude>42.56129090</latitude>
+    <longitude>20.34030350</longitude>
+    <emoji>&#127485;&#127472;</emoji>
+    <emojiU>U+1F1FD U+1F1F0</emojiU>
+  </country>
+  <country>
+    <id>120</id>
+    <name>Latvia</name>
+    <iso3>LVA</iso3>
+    <iso2>LV</iso2>
+    <numeric_code>428</numeric_code>
+    <phone_code>371</phone_code>
+    <capital>Riga</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.lv</tld>
+    <native>Latvija</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Riga</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#46972;&#53944;&#48708;&#50500;</kr>
+      <br>Let&#244;nia</br>
+      <pt>Let&#243;nia</pt>
+      <nl>Letland</nl>
+      <hr>Latvija</hr>
+      <fa>&#1604;&#1578;&#1608;&#1606;&#1740;</fa>
+      <de>Lettland</de>
+      <es>Letonia</es>
+      <fr>Lettonie</fr>
+      <ja>&#12521;&#12488;&#12499;&#12450;</ja>
+      <it>Lettonia</it>
+      <cn>&#25289;&#33073;&#32500;&#20122;</cn>
+    </translations>
+    <latitude>57.00000000</latitude>
+    <longitude>25.00000000</longitude>
+    <emoji>&#127473;&#127483;</emoji>
+    <emojiU>U+1F1F1 U+1F1FB</emojiU>
+  </country>
+  <country>
+    <id>125</id>
+    <name>Liechtenstein</name>
+    <iso3>LIE</iso3>
+    <iso2>LI</iso2>
+    <numeric_code>438</numeric_code>
+    <phone_code>423</phone_code>
+    <capital>Vaduz</capital>
+    <currency>CHF</currency>
+    <currency_name>Swiss franc</currency_name>
+    <currency_symbol>CHf</currency_symbol>
+    <tld>.li</tld>
+    <native>Liechtenstein</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vaduz</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47532;&#55176;&#53584;&#49800;&#53440;&#51064;</kr>
+      <br>Liechtenstein</br>
+      <pt>Listenstaine</pt>
+      <nl>Liechtenstein</nl>
+      <hr>Lihten&#353;tajn</hr>
+      <fa>&#1604;&#1740;&#1582;&#1578;&#1606;&#8204;&#1575;&#1588;&#1578;&#1575;&#1740;&#1606;</fa>
+      <de>Liechtenstein</de>
+      <es>Liechtenstein</es>
+      <fr>Liechtenstein</fr>
+      <ja>&#12522;&#12498;&#12486;&#12531;&#12471;&#12517;&#12479;&#12452;&#12531;</ja>
+      <it>Liechtenstein</it>
+      <cn>&#21015;&#25903;&#25958;&#22763;&#30331;</cn>
+    </translations>
+    <latitude>47.26666666</latitude>
+    <longitude>9.53333333</longitude>
+    <emoji>&#127473;&#127470;</emoji>
+    <emojiU>U+1F1F1 U+1F1EE</emojiU>
+  </country>
+  <country>
+    <id>126</id>
+    <name>Lithuania</name>
+    <iso3>LTU</iso3>
+    <iso2>LT</iso2>
+    <numeric_code>440</numeric_code>
+    <phone_code>370</phone_code>
+    <capital>Vilnius</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.lt</tld>
+    <native>Lietuva</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vilnius</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47532;&#53804;&#50500;&#45768;&#50500;</kr>
+      <br>Litu&#226;nia</br>
+      <pt>Litu&#226;nia</pt>
+      <nl>Litouwen</nl>
+      <hr>Litva</hr>
+      <fa>&#1604;&#1740;&#1578;&#1608;&#1575;&#1606;&#1740;</fa>
+      <de>Litauen</de>
+      <es>Lituania</es>
+      <fr>Lituanie</fr>
+      <ja>&#12522;&#12488;&#12450;&#12491;&#12450;</ja>
+      <it>Lituania</it>
+      <cn>&#31435;&#38518;&#23451;</cn>
+    </translations>
+    <latitude>56.00000000</latitude>
+    <longitude>24.00000000</longitude>
+    <emoji>&#127473;&#127481;</emoji>
+    <emojiU>U+1F1F1 U+1F1F9</emojiU>
+  </country>
+  <country>
+    <id>127</id>
+    <name>Luxembourg</name>
+    <iso3>LUX</iso3>
+    <iso2>LU</iso2>
+    <numeric_code>442</numeric_code>
+    <phone_code>352</phone_code>
+    <capital>Luxembourg</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.lu</tld>
+    <native>Luxembourg</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Luxembourg</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47337;&#49480;&#48512;&#47476;&#53356;</kr>
+      <br>Luxemburgo</br>
+      <pt>Luxemburgo</pt>
+      <nl>Luxemburg</nl>
+      <hr>Luksemburg</hr>
+      <fa>&#1604;&#1608;&#1705;&#1586;&#1575;&#1605;&#1576;&#1608;&#1585;&#1711;</fa>
+      <de>Luxemburg</de>
+      <es>Luxemburgo</es>
+      <fr>Luxembourg</fr>
+      <ja>&#12523;&#12463;&#12475;&#12531;&#12502;&#12523;&#12463;</ja>
+      <it>Lussemburgo</it>
+      <cn>&#21346;&#26862;&#22561;</cn>
+    </translations>
+    <latitude>49.75000000</latitude>
+    <longitude>6.16666666</longitude>
+    <emoji>&#127473;&#127482;</emoji>
+    <emojiU>U+1F1F1 U+1F1FA</emojiU>
+  </country>
+  <country>
+    <id>129</id>
+    <name>Macedonia</name>
+    <iso3>MKD</iso3>
+    <iso2>MK</iso2>
+    <numeric_code>807</numeric_code>
+    <phone_code>389</phone_code>
+    <capital>Skopje</capital>
+    <currency>MKD</currency>
+    <currency_name>Denar</currency_name>
+    <currency_symbol>&#1076;&#1077;&#1085;</currency_symbol>
+    <tld>.mk</tld>
+    <native>&#1057;&#1077;&#1074;&#1077;&#1088;&#1085;&#1072; &#1052;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1080;&#1112;&#1072;</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Skopje</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47560;&#52992;&#46020;&#45768;&#50500;</kr>
+      <br>Maced&#244;nia</br>
+      <pt>Maced&#243;nia</pt>
+      <nl>Macedoni&#235;</nl>
+      <hr>Makedonija</hr>
+      <fa />
+      <de>Mazedonien</de>
+      <es>Macedonia</es>
+      <fr>Mac&#233;doine</fr>
+      <ja>&#12510;&#12465;&#12489;&#12491;&#12450;&#26087;&#12518;&#12540;&#12468;&#12473;&#12521;&#12499;&#12450;&#20849;&#21644;&#22269;</ja>
+      <it>Macedonia</it>
+      <cn>&#39532;&#20854;&#39039;</cn>
+    </translations>
+    <latitude>41.83333333</latitude>
+    <longitude>22.00000000</longitude>
+    <emoji>&#127474;&#127472;</emoji>
+    <emojiU>U+1F1F2 U+1F1F0</emojiU>
+  </country>
+  <country>
+    <id>135</id>
+    <name>Malta</name>
+    <iso3>MLT</iso3>
+    <iso2>MT</iso2>
+    <numeric_code>470</numeric_code>
+    <phone_code>356</phone_code>
+    <capital>Valletta</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.mt</tld>
+    <native>Malta</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Malta</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47792;&#53440;</kr>
+      <br>Malta</br>
+      <pt>Malta</pt>
+      <nl>Malta</nl>
+      <hr>Malta</hr>
+      <fa>&#1605;&#1575;&#1604;&#1578;</fa>
+      <de>Malta</de>
+      <es>Malta</es>
+      <fr>Malte</fr>
+      <ja>&#12510;&#12523;&#12479;</ja>
+      <it>Malta</it>
+      <cn>&#39532;&#32819;&#20182;</cn>
+    </translations>
+    <latitude>35.83333333</latitude>
+    <longitude>14.58333333</longitude>
+    <emoji>&#127474;&#127481;</emoji>
+    <emojiU>U+1F1F2 U+1F1F9</emojiU>
+  </country>
+  <country>
+    <id>136</id>
+    <name>Man (Isle of)</name>
+    <iso3>IMN</iso3>
+    <iso2>IM</iso2>
+    <numeric_code>833</numeric_code>
+    <phone_code>+44-1624</phone_code>
+    <capital>Douglas, Isle of Man</capital>
+    <currency>GBP</currency>
+    <currency_name>British pound</currency_name>
+    <currency_symbol>&#163;</currency_symbol>
+    <tld>.im</tld>
+    <native>Isle of Man</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Isle_of_Man</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47592; &#49452;</kr>
+      <br>Ilha de Man</br>
+      <pt>Ilha de Man</pt>
+      <nl>Isle of Man</nl>
+      <hr>Otok Man</hr>
+      <fa>&#1580;&#1586;&#1740;&#1585;&#1607; &#1605;&#1606;</fa>
+      <de>Insel Man</de>
+      <es>Isla de Man</es>
+      <fr>&#206;le de Man</fr>
+      <ja>&#12510;&#12531;&#23798;</ja>
+      <it>Isola di Man</it>
+      <cn>&#39532;&#24681;&#23707;</cn>
+    </translations>
+    <latitude>54.25000000</latitude>
+    <longitude>-4.50000000</longitude>
+    <emoji>&#127470;&#127474;</emoji>
+    <emojiU>U+1F1EE U+1F1F2</emojiU>
+  </country>
+  <country>
+    <id>144</id>
+    <name>Moldova</name>
+    <iso3>MDA</iso3>
+    <iso2>MD</iso2>
+    <numeric_code>498</numeric_code>
+    <phone_code>373</phone_code>
+    <capital>Chisinau</capital>
+    <currency>MDL</currency>
+    <currency_name>Moldovan leu</currency_name>
+    <currency_symbol>L</currency_symbol>
+    <tld>.md</tld>
+    <native>Moldova</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Chisinau</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47792;&#46020;&#48148;</kr>
+      <br>Mold&#225;via</br>
+      <pt>Mold&#225;via</pt>
+      <nl>Moldavi&#235;</nl>
+      <hr>Moldova</hr>
+      <fa>&#1605;&#1608;&#1604;&#1583;&#1575;&#1608;&#1740;</fa>
+      <de>Moldawie</de>
+      <es>Moldavia</es>
+      <fr>Moldavie</fr>
+      <ja>&#12514;&#12523;&#12489;&#12496;&#20849;&#21644;&#22269;</ja>
+      <it>Moldavia</it>
+      <cn>&#25705;&#23572;&#22810;&#29926;</cn>
+    </translations>
+    <latitude>47.00000000</latitude>
+    <longitude>29.00000000</longitude>
+    <emoji>&#127474;&#127465;</emoji>
+    <emojiU>U+1F1F2 U+1F1E9</emojiU>
+  </country>
+  <country>
+    <id>145</id>
+    <name>Monaco</name>
+    <iso3>MCO</iso3>
+    <iso2>MC</iso2>
+    <numeric_code>492</numeric_code>
+    <phone_code>377</phone_code>
+    <capital>Monaco</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.mc</tld>
+    <native>Monaco</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Monaco</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47784;&#45208;&#53076;</kr>
+      <br>M&#244;naco</br>
+      <pt>M&#243;naco</pt>
+      <nl>Monaco</nl>
+      <hr>Monako</hr>
+      <fa>&#1605;&#1608;&#1606;&#1575;&#1705;&#1608;</fa>
+      <de>Monaco</de>
+      <es>M&#243;naco</es>
+      <fr>Monaco</fr>
+      <ja>&#12514;&#12490;&#12467;</ja>
+      <it>Principato di Monaco</it>
+      <cn>&#25705;&#32435;&#21733;</cn>
+    </translations>
+    <latitude>43.73333333</latitude>
+    <longitude>7.40000000</longitude>
+    <emoji>&#127474;&#127464;</emoji>
+    <emojiU>U+1F1F2 U+1F1E8</emojiU>
+  </country>
+  <country>
+    <id>147</id>
+    <name>Montenegro</name>
+    <iso3>MNE</iso3>
+    <iso2>ME</iso2>
+    <numeric_code>499</numeric_code>
+    <phone_code>382</phone_code>
+    <capital>Podgorica</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.me</tld>
+    <native>&#1062;&#1088;&#1085;&#1072; &#1043;&#1086;&#1088;&#1072;</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Podgorica</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47788;&#53580;&#45348;&#44536;&#47196;</kr>
+      <br>Montenegro</br>
+      <pt>Montenegro</pt>
+      <nl>Montenegro</nl>
+      <hr>Crna Gora</hr>
+      <fa>&#1605;&#1608;&#1606;&#1578;&#1607;&#8204;&#1606;&#1711;&#1585;&#1608;</fa>
+      <de>Montenegro</de>
+      <es>Montenegro</es>
+      <fr>Mont&#233;n&#233;gro</fr>
+      <ja>&#12514;&#12531;&#12486;&#12493;&#12464;&#12525;</ja>
+      <it>Montenegro</it>
+      <cn>&#40657;&#23665;</cn>
+    </translations>
+    <latitude>42.50000000</latitude>
+    <longitude>19.30000000</longitude>
+    <emoji>&#127474;&#127466;</emoji>
+    <emojiU>U+1F1F2 U+1F1EA</emojiU>
+  </country>
+  <country>
+    <id>156</id>
+    <name>Netherlands</name>
+    <iso3>NLD</iso3>
+    <iso2>NL</iso2>
+    <numeric_code>528</numeric_code>
+    <phone_code>31</phone_code>
+    <capital>Amsterdam</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.nl</tld>
+    <native>Nederland</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Amsterdam</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#45348;&#45916;&#46976;&#46300; </kr>
+      <br>Holanda</br>
+      <pt>Pa&#237;ses Baixos</pt>
+      <nl>Nederland</nl>
+      <hr>Nizozemska</hr>
+      <fa>&#1662;&#1575;&#1583;&#1588;&#1575;&#1607;&#1740; &#1607;&#1604;&#1606;&#1583;</fa>
+      <de>Niederlande</de>
+      <es>Pa&#237;ses Bajos</es>
+      <fr>Pays-Bas</fr>
+      <ja>&#12458;&#12521;&#12531;&#12480;</ja>
+      <it>Paesi Bassi</it>
+      <cn>&#33655;&#20848;</cn>
+    </translations>
+    <latitude>52.50000000</latitude>
+    <longitude>5.75000000</longitude>
+    <emoji>&#127475;&#127473;</emoji>
+    <emojiU>U+1F1F3 U+1F1F1</emojiU>
+  </country>
+  <country>
+    <id>165</id>
+    <name>Norway</name>
+    <iso3>NOR</iso3>
+    <iso2>NO</iso2>
+    <numeric_code>578</numeric_code>
+    <phone_code>47</phone_code>
+    <capital>Oslo</capital>
+    <currency>NOK</currency>
+    <currency_name>Norwegian krone</currency_name>
+    <currency_symbol>kr</currency_symbol>
+    <tld>.no</tld>
+    <native>Norge</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Oslo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#45432;&#47476;&#50920;&#51060;</kr>
+      <br>Noruega</br>
+      <pt>Noruega</pt>
+      <nl>Noorwegen</nl>
+      <hr>Norve&#353;ka</hr>
+      <fa>&#1606;&#1585;&#1608;&#1688;</fa>
+      <de>Norwegen</de>
+      <es>Noruega</es>
+      <fr>Norv&#232;ge</fr>
+      <ja>&#12494;&#12523;&#12454;&#12455;&#12540;</ja>
+      <it>Norvegia</it>
+      <cn>&#25386;&#23041;</cn>
+    </translations>
+    <latitude>62.00000000</latitude>
+    <longitude>10.00000000</longitude>
+    <emoji>&#127475;&#127476;</emoji>
+    <emojiU>U+1F1F3 U+1F1F4</emojiU>
+  </country>
+  <country>
+    <id>176</id>
+    <name>Poland</name>
+    <iso3>POL</iso3>
+    <iso2>PL</iso2>
+    <numeric_code>616</numeric_code>
+    <phone_code>48</phone_code>
+    <capital>Warsaw</capital>
+    <currency>PLN</currency>
+    <currency_name>Polish z&#322;oty</currency_name>
+    <currency_symbol>z&#322;</currency_symbol>
+    <tld>.pl</tld>
+    <native>Polska</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Warsaw</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#54260;&#46976;&#46300;</kr>
+      <br>Pol&#244;nia</br>
+      <pt>Pol&#243;nia</pt>
+      <nl>Polen</nl>
+      <hr>Poljska</hr>
+      <fa>&#1604;&#1607;&#1587;&#1578;&#1575;&#1606;</fa>
+      <de>Polen</de>
+      <es>Polonia</es>
+      <fr>Pologne</fr>
+      <ja>&#12509;&#12540;&#12521;&#12531;&#12489;</ja>
+      <it>Polonia</it>
+      <cn>&#27874;&#20848;</cn>
+    </translations>
+    <latitude>52.00000000</latitude>
+    <longitude>20.00000000</longitude>
+    <emoji>&#127477;&#127473;</emoji>
+    <emojiU>U+1F1F5 U+1F1F1</emojiU>
+  </country>
+  <country>
+    <id>177</id>
+    <name>Portugal</name>
+    <iso3>PRT</iso3>
+    <iso2>PT</iso2>
+    <numeric_code>620</numeric_code>
+    <phone_code>351</phone_code>
+    <capital>Lisbon</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.pt</tld>
+    <native>Portugal</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Azores</zoneName>
+      <gmtOffset>-3600</gmtOffset>
+      <gmtOffsetName>UTC-01:00</gmtOffsetName>
+      <abbreviation>AZOT</abbreviation>
+      <tzName>Azores Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Atlantic/Madeira</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Lisbon</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#54252;&#47476;&#53804;&#44040;</kr>
+      <br>Portugal</br>
+      <pt>Portugal</pt>
+      <nl>Portugal</nl>
+      <hr>Portugal</hr>
+      <fa>&#1662;&#1585;&#1578;&#1594;&#1575;&#1604;</fa>
+      <de>Portugal</de>
+      <es>Portugal</es>
+      <fr>Portugal</fr>
+      <ja>&#12509;&#12523;&#12488;&#12460;&#12523;</ja>
+      <it>Portogallo</it>
+      <cn>&#33889;&#33796;&#29273;</cn>
+    </translations>
+    <latitude>39.50000000</latitude>
+    <longitude>-8.00000000</longitude>
+    <emoji>&#127477;&#127481;</emoji>
+    <emojiU>U+1F1F5 U+1F1F9</emojiU>
+  </country>
+  <country>
+    <id>181</id>
+    <name>Romania</name>
+    <iso3>ROU</iso3>
+    <iso2>RO</iso2>
+    <numeric_code>642</numeric_code>
+    <phone_code>40</phone_code>
+    <capital>Bucharest</capital>
+    <currency>RON</currency>
+    <currency_name>Romanian leu</currency_name>
+    <currency_symbol>lei</currency_symbol>
+    <tld>.ro</tld>
+    <native>Rom&#226;nia</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Bucharest</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47336;&#47560;&#45768;&#50500;</kr>
+      <br>Rom&#234;nia</br>
+      <pt>Rom&#233;nia</pt>
+      <nl>Roemeni&#235;</nl>
+      <hr>Rumunjska</hr>
+      <fa>&#1585;&#1608;&#1605;&#1575;&#1606;&#1740;</fa>
+      <de>Rum&#228;nien</de>
+      <es>Rumania</es>
+      <fr>Roumanie</fr>
+      <ja>&#12523;&#12540;&#12510;&#12491;&#12450;</ja>
+      <it>Romania</it>
+      <cn>&#32599;&#39532;&#23612;&#20122;</cn>
+    </translations>
+    <latitude>46.00000000</latitude>
+    <longitude>25.00000000</longitude>
+    <emoji>&#127479;&#127476;</emoji>
+    <emojiU>U+1F1F7 U+1F1F4</emojiU>
+  </country>
+  <country>
+    <id>182</id>
+    <name>Russia</name>
+    <iso3>RUS</iso3>
+    <iso2>RU</iso2>
+    <numeric_code>643</numeric_code>
+    <phone_code>7</phone_code>
+    <capital>Moscow</capital>
+    <currency>RUB</currency>
+    <currency_name>Russian ruble</currency_name>
+    <currency_symbol>&#8381;</currency_symbol>
+    <tld>.ru</tld>
+    <native>&#1056;&#1086;&#1089;&#1089;&#1080;&#1103;</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Asia/Anadyr</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>ANAT</abbreviation>
+      <tzName>Anadyr Time[4</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Barnaul</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Chita</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Irkutsk</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>IRKT</abbreviation>
+      <tzName>Irkutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Kamchatka</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>PETT</abbreviation>
+      <tzName>Kamchatka Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Khandyga</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Krasnoyarsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Magadan</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>MAGT</abbreviation>
+      <tzName>Magadan Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Novokuznetsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Novosibirsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>NOVT</abbreviation>
+      <tzName>Novosibirsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Omsk</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>OMST</abbreviation>
+      <tzName>Omsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Sakhalin</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SAKT</abbreviation>
+      <tzName>Sakhalin Island Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Srednekolymsk</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SRET</abbreviation>
+      <tzName>Srednekolymsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Tomsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>MSD+3</abbreviation>
+      <tzName>Moscow Daylight Time+3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Ust-Nera</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>VLAT</abbreviation>
+      <tzName>Vladivostok Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Vladivostok</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>VLAT</abbreviation>
+      <tzName>Vladivostok Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Yakutsk</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Yekaterinburg</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>YEKT</abbreviation>
+      <tzName>Yekaterinburg Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Astrakhan</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Kaliningrad</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Kirov</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Moscow</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Samara</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Saratov</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MSD</abbreviation>
+      <tzName>Moscow Daylight Time+4</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Ulyanovsk</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Volgograd</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Standard Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#47084;&#49884;&#50500;</kr>
+      <br>R&#250;ssia</br>
+      <pt>R&#250;ssia</pt>
+      <nl>Rusland</nl>
+      <hr>Rusija</hr>
+      <fa>&#1585;&#1608;&#1587;&#1740;&#1607;</fa>
+      <de>Russland</de>
+      <es>Rusia</es>
+      <fr>Russie</fr>
+      <ja>&#12525;&#12471;&#12450;&#36899;&#37030;</ja>
+      <it>Russia</it>
+      <cn>&#20420;&#32599;&#26031;&#32852;&#37030;</cn>
+    </translations>
+    <latitude>60.00000000</latitude>
+    <longitude>100.00000000</longitude>
+    <emoji>&#127479;&#127482;</emoji>
+    <emojiU>U+1F1F7 U+1F1FA</emojiU>
+  </country>
+  <country>
+    <id>192</id>
+    <name>San Marino</name>
+    <iso3>SMR</iso3>
+    <iso2>SM</iso2>
+    <numeric_code>674</numeric_code>
+    <phone_code>378</phone_code>
+    <capital>San Marino</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.sm</tld>
+    <native>San Marino</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/San_Marino</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49328;&#47560;&#47532;&#45432;</kr>
+      <br>San Marino</br>
+      <pt>S&#227;o Marinho</pt>
+      <nl>San Marino</nl>
+      <hr>San Marino</hr>
+      <fa>&#1587;&#1575;&#1606; &#1605;&#1575;&#1585;&#1740;&#1606;&#1608;</fa>
+      <de>San Marino</de>
+      <es>San Marino</es>
+      <fr>Saint-Marin</fr>
+      <ja>&#12469;&#12531;&#12510;&#12522;&#12494;</ja>
+      <it>San Marino</it>
+      <cn>&#22307;&#39532;&#21147;&#35834;</cn>
+    </translations>
+    <latitude>43.76666666</latitude>
+    <longitude>12.41666666</longitude>
+    <emoji>&#127480;&#127474;</emoji>
+    <emojiU>U+1F1F8 U+1F1F2</emojiU>
+  </country>
+  <country>
+    <id>196</id>
+    <name>Serbia</name>
+    <iso3>SRB</iso3>
+    <iso2>RS</iso2>
+    <numeric_code>688</numeric_code>
+    <phone_code>381</phone_code>
+    <capital>Belgrade</capital>
+    <currency>RSD</currency>
+    <currency_name>Serbian dinar</currency_name>
+    <currency_symbol>din</currency_symbol>
+    <tld>.rs</tld>
+    <native>&#1057;&#1088;&#1073;&#1080;&#1112;&#1072;</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Belgrade</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49464;&#47476;&#48708;&#50500;</kr>
+      <br>S&#233;rvia</br>
+      <pt>S&#233;rvia</pt>
+      <nl>Servi&#235;</nl>
+      <hr>Srbija</hr>
+      <fa>&#1589;&#1585;&#1576;&#1587;&#1578;&#1575;&#1606;</fa>
+      <de>Serbien</de>
+      <es>Serbia</es>
+      <fr>Serbie</fr>
+      <ja>&#12475;&#12523;&#12499;&#12450;</ja>
+      <it>Serbia</it>
+      <cn>&#22622;&#23572;&#32500;&#20122;</cn>
+    </translations>
+    <latitude>44.00000000</latitude>
+    <longitude>21.00000000</longitude>
+    <emoji>&#127479;&#127480;</emoji>
+    <emojiU>U+1F1F7 U+1F1F8</emojiU>
+  </country>
+  <country>
+    <id>200</id>
+    <name>Slovakia</name>
+    <iso3>SVK</iso3>
+    <iso2>SK</iso2>
+    <numeric_code>703</numeric_code>
+    <phone_code>421</phone_code>
+    <capital>Bratislava</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.sk</tld>
+    <native>Slovensko</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Bratislava</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49836;&#47196;&#48148;&#53412;&#50500;</kr>
+      <br>Eslov&#225;quia</br>
+      <pt>Eslov&#225;quia</pt>
+      <nl>Slowakije</nl>
+      <hr>Slova&#269;ka</hr>
+      <fa>&#1575;&#1587;&#1604;&#1608;&#1575;&#1705;&#1740;</fa>
+      <de>Slowakei</de>
+      <es>Rep&#250;blica Eslovaca</es>
+      <fr>Slovaquie</fr>
+      <ja>&#12473;&#12525;&#12496;&#12461;&#12450;</ja>
+      <it>Slovacchia</it>
+      <cn>&#26031;&#27931;&#20240;&#20811;</cn>
+    </translations>
+    <latitude>48.66666666</latitude>
+    <longitude>19.50000000</longitude>
+    <emoji>&#127480;&#127472;</emoji>
+    <emojiU>U+1F1F8 U+1F1F0</emojiU>
+  </country>
+  <country>
+    <id>201</id>
+    <name>Slovenia</name>
+    <iso3>SVN</iso3>
+    <iso2>SI</iso2>
+    <numeric_code>705</numeric_code>
+    <phone_code>386</phone_code>
+    <capital>Ljubljana</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.si</tld>
+    <native>Slovenija</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Ljubljana</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49836;&#47196;&#48288;&#45768;&#50500;</kr>
+      <br>Eslov&#234;nia</br>
+      <pt>Eslov&#233;nia</pt>
+      <nl>Sloveni&#235;</nl>
+      <hr>Slovenija</hr>
+      <fa>&#1575;&#1587;&#1604;&#1608;&#1608;&#1606;&#1740;</fa>
+      <de>Slowenien</de>
+      <es>Eslovenia</es>
+      <fr>Slov&#233;nie</fr>
+      <ja>&#12473;&#12525;&#12505;&#12491;&#12450;</ja>
+      <it>Slovenia</it>
+      <cn>&#26031;&#27931;&#25991;&#23612;&#20122;</cn>
+    </translations>
+    <latitude>46.11666666</latitude>
+    <longitude>14.81666666</longitude>
+    <emoji>&#127480;&#127470;</emoji>
+    <emojiU>U+1F1F8 U+1F1EE</emojiU>
+  </country>
+  <country>
+    <id>207</id>
+    <name>Spain</name>
+    <iso3>ESP</iso3>
+    <iso2>ES</iso2>
+    <numeric_code>724</numeric_code>
+    <phone_code>34</phone_code>
+    <capital>Madrid</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.es</tld>
+    <native>Espa&#241;a</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Africa/Ceuta</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Atlantic/Canary</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Madrid</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49828;&#54168;&#51064;</kr>
+      <br>Espanha</br>
+      <pt>Espanha</pt>
+      <nl>Spanje</nl>
+      <hr>&#352;panjolska</hr>
+      <fa>&#1575;&#1587;&#1662;&#1575;&#1606;&#1740;&#1575;</fa>
+      <de>Spanien</de>
+      <es>Espa&#241;a</es>
+      <fr>Espagne</fr>
+      <ja>&#12473;&#12506;&#12452;&#12531;</ja>
+      <it>Spagna</it>
+      <cn>&#35199;&#29677;&#29273;</cn>
+    </translations>
+    <latitude>40.00000000</latitude>
+    <longitude>-4.00000000</longitude>
+    <emoji>&#127466;&#127480;</emoji>
+    <emojiU>U+1F1EA U+1F1F8</emojiU>
+  </country>
+  <country>
+    <id>211</id>
+    <name>Svalbard And Jan Mayen Islands</name>
+    <iso3>SJM</iso3>
+    <iso2>SJ</iso2>
+    <numeric_code>744</numeric_code>
+    <phone_code>47</phone_code>
+    <capital>Longyearbyen</capital>
+    <currency>NOK</currency>
+    <currency_name>Norwegian Krone</currency_name>
+    <currency_symbol>kr</currency_symbol>
+    <tld>.sj</tld>
+    <native>Svalbard og Jan Mayen</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Arctic/Longyearbyen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49828;&#48156;&#48148;&#47476; &#50560;&#47560;&#50700; &#51228;&#46020;</kr>
+      <br>Svalbard</br>
+      <pt>Svalbard</pt>
+      <nl>Svalbard en Jan Mayen</nl>
+      <hr>Svalbard i Jan Mayen</hr>
+      <fa>&#1587;&#1608;&#1575;&#1604;&#1576;&#1575;&#1585;&#1583; &#1608; &#1740;&#1575;&#1606; &#1605;&#1575;&#1740;&#1606;</fa>
+      <de>Svalbard und Jan Mayen</de>
+      <es>Islas Svalbard y Jan Mayen</es>
+      <fr>Svalbard et Jan Mayen</fr>
+      <ja>&#12473;&#12532;&#12449;&#12540;&#12523;&#12496;&#12523;&#35576;&#23798;&#12362;&#12424;&#12403;&#12516;&#12531;&#12510;&#12452;&#12456;&#12531;&#23798;</ja>
+      <it>Svalbard e Jan Mayen</it>
+      <cn>&#26031;&#29926;&#23572;&#24052;&#21644;&#25196;&#39532;&#24310;&#32676;&#23707;</cn>
+    </translations>
+    <latitude>78.00000000</latitude>
+    <longitude>20.00000000</longitude>
+    <emoji>&#127480;&#127471;</emoji>
+    <emojiU>U+1F1F8 U+1F1EF</emojiU>
+  </country>
+  <country>
+    <id>213</id>
+    <name>Sweden</name>
+    <iso3>SWE</iso3>
+    <iso2>SE</iso2>
+    <numeric_code>752</numeric_code>
+    <phone_code>46</phone_code>
+    <capital>Stockholm</capital>
+    <currency>SEK</currency>
+    <currency_name>Swedish krona</currency_name>
+    <currency_symbol>kr</currency_symbol>
+    <tld>.se</tld>
+    <native>Sverige</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Stockholm</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49828;&#50920;&#45940;</kr>
+      <br>Su&#233;cia</br>
+      <pt>Su&#233;cia</pt>
+      <nl>Zweden</nl>
+      <hr>&#352;vedska</hr>
+      <fa>&#1587;&#1608;&#1574;&#1583;</fa>
+      <de>Schweden</de>
+      <es>Suecia</es>
+      <fr>Su&#232;de</fr>
+      <ja>&#12473;&#12454;&#12455;&#12540;&#12487;&#12531;</ja>
+      <it>Svezia</it>
+      <cn>&#29790;&#20856;</cn>
+    </translations>
+    <latitude>62.00000000</latitude>
+    <longitude>15.00000000</longitude>
+    <emoji>&#127480;&#127466;</emoji>
+    <emojiU>U+1F1F8 U+1F1EA</emojiU>
+  </country>
+  <country>
+    <id>214</id>
+    <name>Switzerland</name>
+    <iso3>CHE</iso3>
+    <iso2>CH</iso2>
+    <numeric_code>756</numeric_code>
+    <phone_code>41</phone_code>
+    <capital>Bern</capital>
+    <currency>CHF</currency>
+    <currency_name>Swiss franc</currency_name>
+    <currency_symbol>CHf</currency_symbol>
+    <tld>.ch</tld>
+    <native>Schweiz</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Zurich</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#49828;&#50948;&#49828;</kr>
+      <br>Su&#237;&#231;a</br>
+      <pt>Su&#237;&#231;a</pt>
+      <nl>Zwitserland</nl>
+      <hr>&#352;vicarska</hr>
+      <fa>&#1587;&#1608;&#1574;&#1740;&#1587;</fa>
+      <de>Schweiz</de>
+      <es>Suiza</es>
+      <fr>Suisse</fr>
+      <ja>&#12473;&#12452;&#12473;</ja>
+      <it>Svizzera</it>
+      <cn>&#29790;&#22763;</cn>
+    </translations>
+    <latitude>47.00000000</latitude>
+    <longitude>8.00000000</longitude>
+    <emoji>&#127464;&#127469;</emoji>
+    <emojiU>U+1F1E8 U+1F1ED</emojiU>
+  </country>
+  <country>
+    <id>230</id>
+    <name>Ukraine</name>
+    <iso3>UKR</iso3>
+    <iso2>UA</iso2>
+    <numeric_code>804</numeric_code>
+    <phone_code>380</phone_code>
+    <capital>Kiev</capital>
+    <currency>UAH</currency>
+    <currency_name>Ukrainian hryvnia</currency_name>
+    <currency_symbol>&#8372;</currency_symbol>
+    <tld>.ua</tld>
+    <native>&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1072;</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Kiev</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Simferopol</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Uzhgorod</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Zaporozhye</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50864;&#53356;&#46972;&#51060;&#45208;</kr>
+      <br>Ucr&#226;nia</br>
+      <pt>Ucr&#226;nia</pt>
+      <nl>Oekra&#239;ne</nl>
+      <hr>Ukrajina</hr>
+      <fa>&#1608;&#1705;&#1585;&#1575;&#1740;&#1606;</fa>
+      <de>Ukraine</de>
+      <es>Ucrania</es>
+      <fr>Ukraine</fr>
+      <ja>&#12454;&#12463;&#12521;&#12452;&#12490;</ja>
+      <it>Ucraina</it>
+      <cn>&#20044;&#20811;&#20848;</cn>
+    </translations>
+    <latitude>49.00000000</latitude>
+    <longitude>32.00000000</longitude>
+    <emoji>&#127482;&#127462;</emoji>
+    <emojiU>U+1F1FA U+1F1E6</emojiU>
+  </country>
+  <country>
+    <id>232</id>
+    <name>United Kingdom</name>
+    <iso3>GBR</iso3>
+    <iso2>GB</iso2>
+    <numeric_code>826</numeric_code>
+    <phone_code>44</phone_code>
+    <capital>London</capital>
+    <currency>GBP</currency>
+    <currency_name>British pound</currency_name>
+    <currency_symbol>&#163;</currency_symbol>
+    <tld>.uk</tld>
+    <native>United Kingdom</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/London</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC&#177;00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#50689;&#44397;</kr>
+      <br>Reino Unido</br>
+      <pt>Reino Unido</pt>
+      <nl>Verenigd Koninkrijk</nl>
+      <hr>Ujedinjeno Kraljevstvo</hr>
+      <fa>&#1576;&#1585;&#1740;&#1578;&#1575;&#1606;&#1740;&#1575;&#1740; &#1705;&#1576;&#1740;&#1585; &#1608; &#1575;&#1740;&#1585;&#1604;&#1606;&#1583; &#1588;&#1605;&#1575;&#1604;&#1740;</fa>
+      <de>Vereinigtes K&#246;nigreich</de>
+      <es>Reino Unido</es>
+      <fr>Royaume-Uni</fr>
+      <ja>&#12452;&#12462;&#12522;&#12473;</ja>
+      <it>Regno Unito</it>
+      <cn>&#33521;&#22269;</cn>
+    </translations>
+    <latitude>54.00000000</latitude>
+    <longitude>-2.00000000</longitude>
+    <emoji>&#127468;&#127463;</emoji>
+    <emojiU>U+1F1EC U+1F1E7</emojiU>
+  </country>
+  <country>
+    <id>238</id>
+    <name>Vatican City State (Holy See)</name>
+    <iso3>VAT</iso3>
+    <iso2>VA</iso2>
+    <numeric_code>336</numeric_code>
+    <phone_code>379</phone_code>
+    <capital>Vatican City</capital>
+    <currency>EUR</currency>
+    <currency_name>Euro</currency_name>
+    <currency_symbol>&#8364;</currency_symbol>
+    <tld>.va</tld>
+    <native>Vaticano</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vatican</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>&#48148;&#54000;&#52856; &#49884;&#44397;</kr>
+      <br>Vaticano</br>
+      <pt>Vaticano</pt>
+      <nl>Heilige Stoel</nl>
+      <hr>Sveta Stolica</hr>
+      <fa>&#1587;&#1585;&#1740;&#1585; &#1605;&#1602;&#1583;&#1587;</fa>
+      <de>Heiliger Stuhl</de>
+      <es>Santa Sede</es>
+      <fr>voir Saint</fr>
+      <ja>&#32854;&#24231;</ja>
+      <it>Santa Sede</it>
+      <cn>&#26805;&#33922;&#20872;</cn>
+    </translations>
+    <latitude>41.90000000</latitude>
+    <longitude>12.45000000</longitude>
+    <emoji>&#127483;&#127462;</emoji>
+    <emojiU>U+1F1FB U+1F1E6</emojiU>
+  </country>
+  </countries>

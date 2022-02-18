@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'libreria.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'pyPost',
+        'NAME': 'pos3',
         'USER': 'postgres',
         'PASSWORD': 'F.123abio',
         'HOST': '127.0.0.1',
@@ -124,3 +124,6 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+LOGIN_REDIRECT_URL = 'inicio'
+LOGOUT_REDIRECT_URL = 'inicio'
