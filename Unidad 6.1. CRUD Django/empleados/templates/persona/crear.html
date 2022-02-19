@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %} CREAR EMPLEADO {% endblock titulo %}
+
+
+{% block content %}
+
+<div class="grid-container">
+    <div class="cell">
+        <h3 class="cell" style="text-align: center; margin-top: 50px">
+            CREANDO NUEVO EMPLEADO
+        </h3>
+
+        <form method = 'POST'>
+            {% csrf_token %}
+            {{form.as_p}}
+            <button class="button" type ='submit'> CREAR EMPLEADO </button>
+        </form>
+
+
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+{% endblock content %}

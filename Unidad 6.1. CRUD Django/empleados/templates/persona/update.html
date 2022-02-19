@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %} ACTUALIZAR INFORMACION {% endblock titulo %}
+
+
+{% block content %}
+
+<div class="grid-container">
+    <div class="cell">
+        <h2 class="cell" style="text-align: center; margin-top: 50px">
+            ACTUALIZANDO A: {{persona.first_name}} {{persona.last_name}}
+        </h2>
+        <form method = 'POST'>
+            {% csrf_token %}
+            {{form.as_p}}
+            <button class="button" type ='submit' value="Update"> ACTUALIZAR EMPLEADO </button>
+            <a href="{% url 'persona_app:lista'%}" class="success button"> CANCELAR </a>
+        </form>
+
+    </div>
+</div>
+
+{% endblock content %}

@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %} LISTA DE DEPARTAMENTOS {% endblock titulo %}
+
+{% block content %}
+
+<div class="grid-container">
+    <h3 style="text-align: center; margin-top: 50px; margin-bottom: 50px"> LISTA DE DEPARTAMENTOS </h3>
+
+
+    <div>
+        <a href="{% url 'departamento_app:nuevo_departamento' %}" class="button"> NUEVO DEPARTAMENTO</a>
+    </div>
+
+
+</div>
+
+<div class="grid-container">
+
+    <table>
+    <thead>
+    <th width="200"> NOMBRE </th>
+    <th width="200"> TIPO </th>
+    <th width="200"> ACCIONES </th>
+    </thead>
+
+    <tbody>
+    {% for d in departamento %}
+    <tr>
+        <td> {{ d.name }}</td>
+        <td> {{ d.type }}</td>
+        <td>
+            <div class="small button-group">
+                <a href="{% url 'persona_app:lista_area' d.id %}" class="success button"> VER EMPLEADOS </a>
+            </div>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+</div>
+
+
+
+{% endblock content %}

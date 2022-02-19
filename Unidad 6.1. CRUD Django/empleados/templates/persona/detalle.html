@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %} DETALLE DE EMPLEADO {% endblock titulo %}
+
+
+{% block content %}
+
+  <div class="grid-container">
+    <div class="grid-margin-x">
+      <h3 class="cell" style="text-align: center; margin: 50px"> PERFIL DEL EMPLEADO {{persona.first_name }} {{persona.last_name }}</h3>
+    </div>
+
+      <table>
+          <thead>
+            <tr>
+              <th> DATO </th>
+              <th> VALOR </th>
+            </tr>
+          </thead>
+
+        <tr>
+          <td>NOMBRE</td>
+         <td> {{persona.first_name}}</td>
+        </tr>
+        <tr>
+          <td>APELLIDO</td>
+         <td> {{persona.last_name}}</td>
+        </tr>
+        <tr>
+          <td>DEPARTAMENTO</td>
+         <td> {{persona.departament}}</td>
+        </tr>
+        <tr>
+          <td>EDAD</td>
+         <td> {{persona.edad}}</td>
+        </tr>
+        <tr>
+          <td>POSITION</td>
+         <td>  {{persona.position}}</td>
+        </tr>
+
+
+
+      </table>
+
+      <a href="{% url 'persona_app:lista'%}" class="success button"> REGRESAR </a>
+    </div>
+
+  </div>
+
+
+{% endblock content %}

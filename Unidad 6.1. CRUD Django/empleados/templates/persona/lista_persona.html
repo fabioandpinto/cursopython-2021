@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %} LISTA DE EMPLEADOS {% endblock titulo %}
+
+{% block content %}
+
+<div class="grid-container">
+    <h3 style="text-align: center; margin-top: 50px; margin-bottom: 50px" > LISTA DE EMPLEADOS </h3>
+
+
+
+    <div>
+        <form method ='GET' class="cell grid-x grid-margin-x">
+            {% csrf_token %}
+            <div class="cell large-4">
+               <input type="text" placeholder="Inserta aquí tu busqueda" name="nombre">
+            </div>
+
+            <div class="cell large-8">
+            <button type="submit" class=" alert button"> BUSCAR </button>
+                <a href="{% url 'persona_app:nuevo' %}" class="button"> NUEVO EMPLEADO</a>
+            </div>
+
+        </form>
+
+
+    </div>
+
+    <table>
+        <thead>
+        <th width="50" > ID</th>
+        <th width="150"> Nombre Completo</th>
+        <th width="150"> Departamento</th>
+        <th width="200"> Acciones</th>
+        </thead>
+
+        <tbody>
+        {% for e in empleados %}
+        <tr>
+            <td> {{ e.id }}</td>
+            <td> {{ e.first_name }} {{ e.last_name }}</td>
+            <td> {{ e.departament}}</td>
+            <td>
+                <div class="small button-group">
+                    <a href="{% url 'persona_app:detalle' e.id %}" class="success button"> VER DETALLE </a>
+                    <a href="{% url 'persona_app:actualizar' e.id %}" class="alert button"> ACTUALIZAR </a>
+                    <a href="{% url 'persona_app:delete' e.id %}" class="warning button"> ELIMINAR </a>
+                </div>
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="grid-container">
+    <div class="cell larg-8">
+    {% if is_paginated %}
+        <nav aria-label="pagination">
+            <ul class="page-links">
+                {% if page_obj.has_previous %}
+                  <a href="{{ request.path }}?page={{ page_obj.previous_page_number}}"> Atrás </a>
+                {% endif %}
+                    Pagina {{page_obj.number}} de {{page_obj.paginator.num_pages}}
+                {% if page_obj.has_next %}
+                  <a href="{{ request.path }}?page={{ page_obj.next_page_number}}"> Adelante </a>
+                {% endif %}
+            </ul>
+
+        </nav>
+    {% endif %}
+</div>
+</div>
+
+
+{% endblock content %}

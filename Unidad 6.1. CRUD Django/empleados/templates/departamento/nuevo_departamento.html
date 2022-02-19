@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %} CREAR DEPARTAMENTO {% endblock titulo %}
+
+
+{% block content %}
+
+<div class="grid-container">
+    <div class="cell">
+        <h3 class="cell" style="text-align: center; margin-top: 50px">
+            CREANDO NUEVO DEPARTAMENTO
+        </h3>
+
+        <form method = 'POST'>
+            {% csrf_token %}
+            {{form.as_p}}
+            <button class="button" type ='submit'> CREAR DEPARTAMENTO </button>
+        </form>
+
+
+    </div>
+
+
+</div>
+
+{% endblock content %}

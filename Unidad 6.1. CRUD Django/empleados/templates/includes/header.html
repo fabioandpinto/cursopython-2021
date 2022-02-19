@@ -1,0 +1,13 @@
+{% load static  %}
+<div class="top-bar">
+    <div class="top-bar-left">
+        <ul class="dropdown menu">
+            <div class="grid-x">
+                <li class="menu-text"><a href="{%  url 'persona_app:inicio'  %}"> <img style = 'width: 50px' src="{% static 'img\logo.png' %}" alt="" class="logo"> </a> </li>
+                <li><a href="{%  url 'persona_app:lista' %}"> Personas  </a>   </li>
+                <li><a href="{%  url 'departamento_app:departamentos' %}"> Departamentos </a>   </li>
+            </div>
+        </ul>
+    </div>
+
+</div>
