@@ -4,6 +4,13 @@
   <div class="row">
     <div class="col">
       <div class="jumbotron">
+        {% if user.is_authenticated %}
+        <h2> bIENVENIDO </h2>
+
+        {% else %}
+
+        <h2> NO ESTOY AUTENTICADO </h2>
+        {% endif %}
       </div>
     </div>
 

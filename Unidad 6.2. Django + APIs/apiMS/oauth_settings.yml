@@ -1,0 +1,9 @@
+app_id: 177ff7a6-9d75-480a-bd03-5b83388b0323
+app_secret: pSm7Q~T4tQbTiTUZuhfsi06JXKPfUq6tL49Ba
+redirect: 'http://localhost:8000/callback'
+scopes:
+  - user.read
+  - mailboxsettings.read
+  - calendars.readwrite
+  - OnlineMeetings.ReadWrite
+authority: "https://login.microsoftonline.com/common"
